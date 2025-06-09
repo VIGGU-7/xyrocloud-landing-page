@@ -1,0 +1,19 @@
+.Links li{
+ margin-right: 15px;
+}
+main{
+    background-image: url("/cdn/image.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.slider-wrapper{
+    position: relative;
+    max-width: 48rem;
+    margin: 0 auto;
+}
+.slider{
+    display: flex;
+    aspect-ratio: 16/9;
+    overflow-x: scroll;
+    scroll-snap-type: x mandatory;
+}
