@@ -2,7 +2,7 @@
  margin-right: 15px;
 }
 main{
-    background-image: url("/cdn/image.png");
+    background-image: url("../cdn/image.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
